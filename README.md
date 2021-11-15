@@ -1,3 +1,1 @@
-# BitDAO Solidity Bootcamp
-
-Navigate through the days with the branch menu
+# BitDAO Solidity Bootcamp - HW4
